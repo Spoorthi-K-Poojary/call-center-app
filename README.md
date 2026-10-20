@@ -31,7 +31,11 @@ Claude (Anthropic) generated the first draft of the code. I reviewed it and can 
 
 ## Live Demo
 
-Add your GitHub Pages URL here after deployment is successful.
+## Live Demo
+
+**Live Application:** https://spoorthi-k-poojary.github.io/call-center-app/
+
+**GitHub Repository:** https://github.com/Spoorthi-K-Poojary/call-center-app
 
 ## Limitations
 
