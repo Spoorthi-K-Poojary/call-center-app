@@ -25,3 +25,18 @@ Charts are CSS bars (no library). No DEMO strip. Pulse agents and Kudos are disp
 
 ## AI tools used
 Claude (Anthropic) generated the first draft of the code. I reviewed it and can explain every part.
+## Author
+
+**Developer:** Spoorthi K. Poojary
+
+## Live Demo
+
+Add your GitHub Pages URL here after deployment is successful.
+
+## Limitations
+
+- The application uses sample data and does not have a backend.
+- Human-to-human audio calling uses PeerJS and WebRTC; connectivity may depend on browser permissions and network conditions.
+- The AI customer is scripted and uses browser speech features. It is not a real LLM-powered voice agent.
+- Phone calls use a `tel:` link and depend on device support.
+- Microphone features require a supported browser and a secure context, such as HTTPS or localhost.
